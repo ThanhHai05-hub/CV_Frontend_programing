@@ -409,6 +409,17 @@ a{
         overflow-wrap: break-word;
     }
 
+
+}
+
+@media (max-width: 425px) {
+
+    .section_one{
+        height: 32vh;
+
+    }
+
+
 }
 
 
